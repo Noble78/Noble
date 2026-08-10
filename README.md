@@ -3,3 +3,4 @@ A simple python program for calculating:
 - Tax amount
 - Profit before tax
 - Net income
+And also for modulus of numbers
