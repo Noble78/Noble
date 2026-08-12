@@ -4,3 +4,4 @@ A simple python program for calculating:
 - Profit before tax
 - Net income
 And also for modulus of numbers
+And other code for different problems
